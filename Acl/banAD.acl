@@ -898,7 +898,7 @@
 (^|\.)doudouguo\.com$
 (^|\.)doumob\.com$
 (^|\.)duanat\.com$
-(^|\.)duiba\.com\.cn$
+#(^|\.)duiba\.com\.cn$
 (^|\.)duomeng\.cn$
 (^|\.)dxpmedia\.com$
 (^|\.)edigitalsurvey\.com$
