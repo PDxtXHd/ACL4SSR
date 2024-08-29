@@ -180,7 +180,7 @@ DOMAIN-SUFFIX,doubleverify.com
 DOMAIN-SUFFIX,doudouguo.com
 DOMAIN-SUFFIX,doumob.com
 DOMAIN-SUFFIX,duanat.com
-DOMAIN-SUFFIX,duiba.com.cn
+#DOMAIN-SUFFIX,duiba.com.cn
 DOMAIN-SUFFIX,duomeng.cn
 DOMAIN-SUFFIX,dxpmedia.com
 DOMAIN-SUFFIX,edigitalsurvey.com
@@ -340,7 +340,7 @@ DOMAIN-SUFFIX,talkingdata.com
 DOMAIN-SUFFIX,talkingdata.net
 DOMAIN-SUFFIX,tansuotv.com
 DOMAIN-SUFFIX,tanv.com
-DOMAIN-SUFFIX,tanx.com
+#DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tapjoy.cn
 DOMAIN-SUFFIX,th7.cn
 DOMAIN-SUFFIX,thoughtleadr.com
