@@ -1,4 +1,5 @@
 payload:
-- '+.123624.com'
-- '+.pdfwifi.com'
-- 'www.bsbsb.top'
+- DOMAIN-SUFFIX,123624.com
+- DOMAIN-SUFFIX,pdfwifi.com
+- DOMAIN,reminderapi.joyslinktech.com
+- DOMAIN,www.bsbsb.top

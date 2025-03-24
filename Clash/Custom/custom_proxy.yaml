@@ -1,8 +1,7 @@
 payload:
-- '+.adspower.net'
-- '+.adspower.com'
-- '+.1000qm.vip'
-- '+.hostbuf.com'
-- '+.ngabbs.com'
-- '+.nga.cn'
-- '+.178.com'
+- DOMAIN-SUFFIX,1000qm.vip
+- DOMAIN-SUFFIX,hostbuf.com
+- DOMAIN-SUFFIX,ngabbs.com
+- DOMAIN-SUFFIX,nga.cn
+- DOMAIN-SUFFIX,178.com
+- DOMAIN-KEYWORD,adspower
