@@ -1,13 +1,15 @@
 payload:
-- DOMAIN-SUFFIX,1000qm.vip
-- DOMAIN-SUFFIX,hostbuf.com
-- DOMAIN-SUFFIX,ngabbs.com
-- DOMAIN-SUFFIX,nga.cn
-- DOMAIN-SUFFIX,178.com
 - DOMAIN-KEYWORD,adspower
+- DOMAIN-SUFFIX,1000qm.vip
+- DOMAIN-SUFFIX,178.com
 - DOMAIN-SUFFIX,bwihz.cn
-- DOMAIN-SUFFIX,netcut.cn
-- DOMAIN-SUFFIX,coze.cn
-- DOMAIN-SUFFIX,chiphell.com
 - DOMAIN-SUFFIX,chinapyg.com
+- DOMAIN-SUFFIX,chiphell.com
+- DOMAIN-SUFFIX,coze.cn
+- DOMAIN-SUFFIX,hostbuf.com
 - DOMAIN-SUFFIX,naixi.net
+- DOMAIN-SUFFIX,netcut.cn
+- DOMAIN-SUFFIX,nga.cn
+- DOMAIN-SUFFIX,ngabbs.com
+- DOMAIN-SUFFIX,ovinc.cn
+- DOMAIN-SUFFIX,xz61.cn
