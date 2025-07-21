@@ -1,7 +1,7 @@
 payload:
 - DOMAIN-SUFFIX,123624.com
 - DOMAIN-SUFFIX,pdfwifi.com
-- DOMAIN,reminderapi.joyslinktech.com
+- DOMAIN-SUFFIX,joyslinktech.com
 - DOMAIN,www.bsbsb.top
 - DOMAIN-SUFFIX,ppinfra.com
 - DOMAIN-SUFFIX,iotwish.com
