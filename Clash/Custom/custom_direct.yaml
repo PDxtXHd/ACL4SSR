@@ -8,3 +8,9 @@ payload:
 - DOMAIN-SUFFIX,hunan-bank.com
 - DOMAIN-SUFFIX,chengquan.vip
 - DOMAIN-SUFFIX,cardwinner.com
+- DOMAIN-SUFFIX,lottefuture.com
+- DOMAIN-SUFFIX,hndhcc.com
+# pikpak download
+- DOMAIN-KEYWORD,dl-a10b-
+- DOMAIN-KEYWORD,dl-z01a-
+- DOMAIN-KEYWORD,dl-b07-
